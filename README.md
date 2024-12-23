@@ -1,2 +1,2 @@
-# pkmon-memories
+# pokemon broken bonds
 hackroom de pokemon
